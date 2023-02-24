@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git tracks pushes.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 
 $ ssh-keygen -t rsa -C "lzjee1025@gmail.com"
 Generating public/private rsa key pair.
